@@ -1,1 +1,2 @@
 - [ x ] Dar merge no código
+- [ x ] Arquivo CSS
