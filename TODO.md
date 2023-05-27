@@ -1,2 +1,3 @@
 - [ x ] Dar merge no código
 - [ x ] Arquivo CSS
+- [  ] Criar arquivos (cadastro-entidade.html e listagem-entidade.html)
