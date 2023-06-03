@@ -1,3 +1,5 @@
 - [ x ] Dar merge no código
 - [ x ] Arquivo CSS
 - [ x ] Criar arquivos (cadastro-entidade.html e listagem-entidade.html)
+- [  ] Criar arquivo javascript com as funcionalidades das páginas 
+- [  ] Show and hide link "Ver dados" em listagem-entidade.html
