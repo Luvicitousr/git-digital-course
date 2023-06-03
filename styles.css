@@ -167,6 +167,10 @@ main form .select-div::after {
     color: #46f7fa;
 }
 
+main form #select-field{
+    padding: 0.5rem 3rem;
+}
+
 main form .paragraph-div {
     font-size: 1.8rem;
     margin-top: 1rem;
